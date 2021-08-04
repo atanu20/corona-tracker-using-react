@@ -1,7 +1,6 @@
 import React , {useState,useEffect} from 'react'
 import Card from './component/Card'
 import Select from './component/Select'
-
 import './App.css'
 import axios from 'axios'
 
