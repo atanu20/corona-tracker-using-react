@@ -18,7 +18,7 @@ const App = () => {
       deaths:data.deaths,
       lastUpdate:data.lastUpdate
     }
-    // console.log(alldat)
+   
     setAlldata(alldat)
 
 
